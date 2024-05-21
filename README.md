@@ -1,13 +1,12 @@
 ![image](https://github.com/AlbertoFAraujo/SQL_People_analytics/assets/105552990/90fe588e-4eec-48e9-a957-71e11294c358)
 
 ### Tecnologias utilizadas: 
-| [<img align="center" alt="sql" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_EDA_exercito2022/assets/105552990/805dfaf3-4725-47f9-86d5-241953a018ab">](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16) | [<img align="center" alt="databrick" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_EDA_exercito2022/assets/105552990/b188ba83-b87f-4f80-b79f-e91be05602af">](https://www.databricks.com/) | [<img align="center" alt="apache_spark" height="60" width="100" src="https://github.com/AlbertoFAraujo/SQL_EDA_exercito2022/assets/105552990/4b3cbec3-98da-499b-9d83-908ce9458d29">](https://spark.apache.org/docs/latest/)|
-|:---:|:---:|:---:|
-| SQL | Databrick  | Apache Spark |
+| [<img align="center" alt="sql" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_EDA_exercito2022/assets/105552990/805dfaf3-4725-47f9-86d5-241953a018ab">](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16) | [<img align="center" alt="azure" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_People_analytics/assets/105552990/a0848293-4573-431a-b7e4-2f79bc9cc32e">](https://azure.microsoft.com/pt-br/products/data-studio/) |
+|:---:|:---:|
+| SQL | Azure Data |
 
 - **SQL**: Linguagem padrão para consulta e manipulação de bancos de dados relacionais, permitindo operações como consulta, inserção, atualização e exclusão de dados.
-- **Databricks**: Plataforma de análise de dados e aprendizado de máquina baseada no Apache Spark, oferecendo um ambiente unificado para processamento em larga escala e desenvolvimento colaborativo.
-- **Apache Spark**: Framework open-source para processamento de big data, oferecendo uma API unificada para operações distribuídas em dados, com suporte a várias linguagens e módulos para processamento de streaming e machine learning.
+- **Azure Data Studio**: Ferramenta de gerenciamento de banco de dados desenvolvida pela Microsoft, permitindo desenvolvimento, administração e operações de bancos de dados relacionais e não relacionais, com suporte a múltiplos sistemas operacionais e extensões para funcionalidades adicionais.
 <hr>
 
 ### Sobre a base de Dados e Objetivo
