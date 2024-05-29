@@ -1,4 +1,4 @@
-![image](https://github.com/AlbertoFAraujo/SQL_People_analytics/assets/105552990/90fe588e-4eec-48e9-a957-71e11294c358)
+![image](https://github.com/AlbertoFAraujo/SQL_People_analytics/assets/105552990/18c5d50f-d121-4635-b60b-3910570450b5)
 
 ### Tecnologias utilizadas: 
 | [<img align="center" alt="sql" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_EDA_exercito2022/assets/105552990/805dfaf3-4725-47f9-86d5-241953a018ab">](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16) | [<img align="center" alt="azure" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_People_analytics/assets/105552990/a0848293-4573-431a-b7e4-2f79bc9cc32e">](https://azure.microsoft.com/pt-br/products/data-studio/) |
